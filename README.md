@@ -22,7 +22,9 @@
 
 ## 📸 Demo
 
-> 🖼️  Live Demo: [https://imagino.vercel.app](https://imagino-five.vercel.app/) <!-- Replace with your deployed URL -->
+> ### 🖼️  Live Demo: [https://imagino.vercel.app](https://imagino-five.vercel.app/) <!-- Replace with your deployed URL -->
+![image](https://github.com/user-attachments/assets/e55af92d-b63c-4ce7-88e8-5e148baf61dd)
+
 
 ### 🔢 Step 1: Clone the Repository
 ---

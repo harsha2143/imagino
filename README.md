@@ -84,5 +84,3 @@ Enter a prompt like “A black car in a high-tech city”
 
 Click generate and watch your AI-generated image appear!
 
-
-add some more content new options
